@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload!!.
         </p>
         <a
           className="App-link"
@@ -21,5 +21,19 @@ function App() {
     </div>
   );
 }
+
+// function Welcome(props) {
+//   return <h1>Hello, {props.name}</h1>;
+// }
+
+// function App2() {
+//   return (
+//     <div>
+//       <Welcome name="Sara" />
+//       <Welcome name="Cahal" />
+//       <Welcome name="Edite" />
+//     </div>
+//   );
+// }
 
 export default App;
